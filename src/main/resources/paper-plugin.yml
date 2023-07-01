@@ -1,0 +1,7 @@
+name: Noeedge-Tools
+version: '1.0'
+main: me.noeedge.noeedgetools.Noeedge_tools
+description: '離緣的工具插件'
+api-version: '1.20'
+#bootstrapper: io.papermc.testplugin.TestPluginBootstrap
+#loader: io.papermc.testplugin.TestPluginLoader
